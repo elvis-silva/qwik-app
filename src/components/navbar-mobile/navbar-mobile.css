@@ -80,6 +80,7 @@ body {
 
 .change #bar1 {
   transform: translateY(4px) rotateZ(-45deg);
+  background-color: white;
 }
 
 .change #bar2 {
@@ -88,6 +89,7 @@ body {
 
 .change #bar3 {
   transform: translateY(-6px) rotateZ(45deg);
+  background-color: white;
 }
 
 .change-bg {
